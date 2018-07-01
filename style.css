@@ -1,0 +1,12 @@
+body{
+	background-color: #fcfcfc;
+	color: #2a2a2a;
+}
+.post{
+	border: solid 0.5px #e8e8e8;
+	border-radius: 10px;
+	display: inline-block;
+	padding: 5px 25px;
+	width: 500px;
+	box-sizing: border-box;
+}
